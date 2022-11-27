@@ -1,0 +1,917 @@
+Year,Datetime,Stage,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win conditions,Home Team Initials,Away Team Initials
+1930,7/13/1930,Group 1,France,4,1,Mexico, ,FRA,MEX
+1930,7/13/1930,Group 4,USA,3,0,Belgium, ,USA,BEL
+1930,7/14/1930,Group 2,Yugoslavia,2,1,Brazil, ,YUG,BRA
+1930,7/14/1930,Group 3,Romania,3,1,Peru, ,ROU,PER
+1930,7/15/1930,Group 1,Argentina,1,0,France, ,ARG,FRA
+1930,7/16/1930,Group 1,Chile,3,0,Mexico, ,CHI,MEX
+1930,7/17/1930,Group 2,Yugoslavia,4,0,Bolivia, ,YUG,BOL
+1930,7/17/1930,Group 4,USA,3,0,Paraguay, ,USA,PAR
+1930,7/18/1930,Group 3,Uruguay,1,0,Peru, ,URU,PER
+1930,7/19/1930,Group 1,Chile,1,0,France, ,CHI,FRA
+1930,7/19/1930,Group 1,Argentina,6,3,Mexico, ,ARG,MEX
+1930,7/20/1930,Group 2,Brazil,4,0,Bolivia, ,BRA,BOL
+1930,7/20/1930,Group 4,Paraguay,1,0,Belgium, ,PAR,BEL
+1930,7/21/1930,Group 3,Uruguay,4,0,Romania, ,URU,ROU
+1930,7/22/1930,Group 1,Argentina,3,1,Chile, ,ARG,CHI
+1930,7/26/1930,Semi-finals,Argentina,6,1,USA, ,ARG,USA
+1930,7/27/1930,Semi-finals,Uruguay,6,1,Yugoslavia, ,URU,YUG
+1930,7/30/1930,Final,Uruguay,4,2,Argentina, ,URU,ARG
+1934,5/27/1934,Preliminary round,Austria,3,2,France,Austria win after extra time ,AUT,FRA
+1934,5/27/1934,Preliminary round,Hungary,4,2,Egypt, ,HUN,EGY
+1934,5/27/1934,Preliminary round,Switzerland,3,2,Netherlands, ,SUI,NED
+1934,5/27/1934,Preliminary round,Sweden,3,2,Argentina, ,SWE,ARG
+1934,5/27/1934,Preliminary round,Germany,5,2,Belgium, ,GER,BEL
+1934,5/27/1934,Preliminary round,Spain,3,1,Brazil, ,ESP,BRA
+1934,5/27/1934,Preliminary round,Italy,7,1,USA, ,ITA,USA
+1934,5/27/1934,Preliminary round,Czechoslovakia,2,1,Romania, ,TCH,ROU
+1934,5/31/1934,Quarter-finals,Czechoslovakia,3,2,Switzerland, ,TCH,SUI
+1934,5/31/1934,Quarter-finals,Germany,2,1,Sweden, ,GER,SWE
+1934,5/31/1934,Quarter-finals,Italy,1,1,Spain, ,ITA,ESP
+1934,5/31/1934,Quarter-finals,Austria,2,1,Hungary, ,AUT,HUN
+1934,6/1/1934,Quarter-finals,Italy,1,0,Spain, ,ITA,ESP
+1934,6/3/1934,Semi-finals,Italy,1,0,Austria, ,ITA,AUT
+1934,6/3/1934,Semi-finals,Czechoslovakia,3,1,Germany, ,TCH,GER
+1934,6/7/1934,Third place,Germany,3,2,Austria, ,GER,AUT
+1934,6/10/1934,Final,Italy,2,1,Czechoslovakia,Italy win after extra time ,ITA,TCH
+1938,6/4/1938,First round,Switzerland,1,1,Germany, ,SUI,GER
+1938,6/5/1938,First round,Hungary,6,0,Dutch East Indies, ,HUN,INH
+1938,6/5/1938,First round,France,3,1,Belgium, ,FRA,BEL
+1938,6/5/1938,First round,Cuba,3,3,Romania, ,CUB,ROU
+1938,6/5/1938,First round,Italy,2,1,Norway,Italy win after extra time ,ITA,NOR
+1938,6/5/1938,First round,Brazil,6,5,Poland,Brazil win after extra time ,BRA,POL
+1938,6/5/1938,First round,Czechoslovakia,3,0,Netherlands,Czechoslovakia win after extra time ,TCH,NED
+1938,6/9/1938,First round,Cuba,2,1,Romania, ,CUB,ROU
+1938,6/9/1938,First round,Switzerland,4,2,Germany, ,SUI,GER
+1938,6/12/1938,Quarter-finals,Brazil,1,1,Czechoslovakia, ,BRA,TCH
+1938,6/12/1938,Quarter-finals,Hungary,2,0,Switzerland, ,HUN,SUI
+1938,6/12/1938,Quarter-finals,Sweden,8,0,Cuba, ,SWE,CUB
+1938,6/12/1938,Quarter-finals,Italy,3,1,France, ,ITA,FRA
+1938,6/14/1938,Quarter-finals,Brazil,2,1,Czechoslovakia, ,BRA,TCH
+1938,6/16/1938,Semi-finals,Hungary,5,1,Sweden, ,HUN,SWE
+1938,6/16/1938,Semi-finals,Italy,2,1,Brazil, ,ITA,BRA
+1938,6/19/1938,Third place,Brazil,4,2,Sweden, ,BRA,SWE
+1938,6/19/1938,Final,Italy,4,2,Hungary, ,ITA,HUN
+1950,6/24/1950,Group 1,Brazil,4,0,Mexico, ,BRA,MEX
+1950,6/25/1950,Group 2,England,2,0,Chile, ,ENG,CHI
+1950,6/25/1950,Group 2,Spain,3,1,USA, ,ESP,USA
+1950,6/25/1950,Group 3,Sweden,3,2,Italy, ,SWE,ITA
+1950,6/25/1950,Group 1,Yugoslavia,3,0,Switzerland, ,YUG,SUI
+1950,6/28/1950,Group 1,Brazil,2,2,Switzerland, ,BRA,SUI
+1950,6/28/1950,Group 1,Yugoslavia,4,1,Mexico, ,YUG,MEX
+1950,6/29/1950,Group 2,Spain,2,0,Chile, ,ESP,CHI
+1950,6/29/1950,Group 3,Sweden,2,2,Paraguay, ,SWE,PAR
+1950,6/29/1950,Group 2,USA,1,0,England, ,USA,ENG
+1950,7/1/1950,Group 1,Brazil,2,0,Yugoslavia, ,BRA,YUG
+1950,7/2/1950,Group 2,Spain,1,0,England, ,ESP,ENG
+1950,7/2/1950,Group 3,Italy,2,0,Paraguay, ,ITA,PAR
+1950,7/2/1950,Group 4,Uruguay,8,0,Bolivia, ,URU,BOL
+1950,7/2/1950,Group 1,Switzerland,2,1,Mexico, ,SUI,MEX
+1950,7/2/1950,Group 2,Chile,5,2,USA, ,CHI,USA
+1950,7/9/1950,Group 6,Uruguay,2,2,Spain, ,URU,ESP
+1950,7/9/1950,Group 6,Brazil,7,1,Sweden, ,BRA,SWE
+1950,7/13/1950,Group 6,Brazil,6,1,Spain, ,BRA,ESP
+1950,7/13/1950,Group 6,Uruguay,3,2,Sweden, ,URU,SWE
+1950,7/16/1950,Group 6,Sweden,3,1,Spain, ,SWE,ESP
+1950,7/16/1950,Group 6,Uruguay,2,1,Brazil, ,URU,BRA
+1954,6/16/1954,Group 3,Uruguay,2,0,Czechoslovakia, ,URU,TCH
+1954,6/16/1954,Group 3,Austria,1,0,Scotland, ,AUT,SCO
+1954,6/16/1954,Group 1,Brazil,5,0,Mexico, ,BRA,MEX
+1954,6/16/1954,Group 1,Yugoslavia,1,0,France, ,YUG,FRA
+1954,6/17/1954,Group 2,Germany,4,1,Turkey, ,GER,TUR
+1954,6/17/1954,Group 2,Hungary,9,0,Korea Republic, ,HUN,KOR
+1954,6/17/1954,Group 4,England,4,4,Belgium, ,ENG,BEL
+1954,6/17/1954,Group 4,Switzerland,2,1,Italy, ,SUI,ITA
+1954,6/19/1954,Group 3,Uruguay,7,0,Scotland, ,URU,SCO
+1954,6/19/1954,Group 3,Austria,5,0,Czechoslovakia, ,AUT,TCH
+1954,6/19/1954,Group 1,France,3,2,Mexico, ,FRA,MEX
+1954,6/19/1954,Group 1,Brazil,1,1,Yugoslavia, ,BRA,YUG
+1954,6/20/1954,Group 2,Hungary,8,3,Germany, ,HUN,GER
+1954,6/20/1954,Group 2,Turkey,7,0,Korea Republic, ,TUR,KOR
+1954,6/20/1954,Group 4,England,2,0,Switzerland, ,ENG,SUI
+1954,6/20/1954,Group 4,Italy,4,1,Belgium, ,ITA,BEL
+1954,6/23/1954,Group 2,Germany,7,2,Turkey, ,GER,TUR
+1954,6/23/1954,Group 4,Switzerland,4,1,Italy, ,SUI,ITA
+1954,6/26/1954,Quarter-finals,Uruguay,4,2,England, ,URU,ENG
+1954,6/26/1954,Quarter-finals,Austria,7,5,Switzerland, ,AUT,SUI
+1954,6/27/1954,Quarter-finals,Germany,2,0,Yugoslavia, ,GER,YUG
+1954,6/27/1954,Quarter-finals,Hungary,4,2,Brazil, ,HUN,BRA
+1954,6/30/1954,Semi-finals,Germany,6,1,Austria, ,GER,AUT
+1954,6/30/1954,Semi-finals,Hungary,4,2,Uruguay,Hungary win after extra time ,HUN,URU
+1954,7/3/1954,Third place,Austria,3,1,Uruguay, ,AUT,URU
+1954,7/4/1954,Final,Germany,3,2,Hungary, ,GER,HUN
+1958,6/8/1958,Group 3,Sweden,3,0,Mexico, ,SWE,MEX
+1958,6/8/1958,Group 4,Soviet Union,2,2,England, ,URS,ENG
+1958,6/8/1958,Group 1,Argentina,1,3,Germany, ,ARG,GER
+1958,6/8/1958,Group 3,Hungary,1,1,Wales, ,HUN,WAL
+1958,6/8/1958,Group 2,France,7,3,Paraguay, ,FRA,PAR
+1958,6/8/1958,Group 2,Yugoslavia,1,1,Scotland, ,YUG,SCO
+1958,6/8/1958,Group 4,Brazil,3,0,Austria, ,BRA,AUT
+1958,6/8/1958,Group 1,Northern Ireland,1,0,Czechoslovakia, ,NIR,TCH
+1958,6/11/1958,Group 4,Brazil,0,0,England, ,BRA,ENG
+1958,6/11/1958,Group 3,Mexico,1,1,Wales, ,MEX,WAL
+1958,6/11/1958,Group 2,Paraguay,3,2,Scotland, ,PAR,SCO
+1958,6/11/1958,Group 2,Yugoslavia,3,2,France, ,YUG,FRA
+1958,6/11/1958,Group 4,Soviet Union,2,0,Austria, ,URS,AUT
+1958,6/11/1958,Group 1,Germany,2,2,Czechoslovakia, ,GER,TCH
+1958,6/11/1958,Group 1,Argentina,3,1,Northern Ireland, ,ARG,NIR
+1958,6/12/1958,Group 3,Sweden,2,1,Hungary, ,SWE,HUN
+1958,6/15/1958,Group 3,Sweden,0,0,Wales, ,SWE,WAL
+1958,6/15/1958,Group 4,Brazil,2,0,Soviet Union, ,BRA,URS
+1958,6/15/1958,Group 1,Germany,2,2,Northern Ireland, ,GER,NIR
+1958,6/15/1958,Group 3,Hungary,4,0,Mexico, ,HUN,MEX
+1958,6/15/1958,Group 2,Paraguay,3,3,Yugoslavia, ,PAR,YUG
+1958,6/15/1958,Group 2,France,2,1,Scotland, ,FRA,SCO
+1958,6/15/1958,Group 4,England,2,2,Austria, ,ENG,AUT
+1958,6/15/1958,Group 1,Czechoslovakia,6,1,Argentina, ,TCH,ARG
+1958,6/17/1958,Group 4,Soviet Union,1,0,England, ,URS,ENG
+1958,6/17/1958,Group 1,Northern Ireland,2,1,Czechoslovakia,Northern Ireland win after extra time ,NIR,TCH
+1958,6/17/1958,Group 3,Wales,2,1,Hungary, ,WAL,HUN
+1958,6/19/1958,Quarter-finals,Brazil,1,0,Wales, ,BRA,WAL
+1958,6/19/1958,Quarter-finals,Germany,1,0,Yugoslavia, ,GER,YUG
+1958,6/19/1958,Quarter-finals,Sweden,2,0,Soviet Union, ,SWE,URS
+1958,6/19/1958,Quarter-finals,France,4,0,Northern Ireland, ,FRA,NIR
+1958,6/24/1958,Semi-finals,Sweden,3,1,Germany, ,SWE,GER
+1958,6/24/1958,Semi-finals,Brazil,5,2,France, ,BRA,FRA
+1958,6/28/1958,Third place,France,6,3,Germany, ,FRA,GER
+1958,6/29/1958,Final,Brazil,5,2,Sweden, ,BRA,SWE
+1962,5/30/1962,Group 1,Uruguay,2,1,Colombia, ,URU,COL
+1962,5/30/1962,Group 3,Brazil,2,0,Mexico, ,BRA,MEX
+1962,5/30/1962,Group 4,Argentina,1,0,Bulgaria, ,ARG,BUL
+1962,5/30/1962,Group 2,Chile,3,1,Switzerland, ,CHI,SUI
+1962,5/31/1962,Group 1,Soviet Union,2,0,Yugoslavia, ,URS,YUG
+1962,5/31/1962,Group 3,Czechoslovakia,1,0,Spain, ,TCH,ESP
+1962,5/31/1962,Group 4,Hungary,2,1,England, ,HUN,ENG
+1962,5/31/1962,Group 2,Germany,0,0,Italy, ,GER,ITA
+1962,6/2/1962,Group 1,Yugoslavia,3,1,Uruguay, ,YUG,URU
+1962,6/2/1962,Group 3,Brazil,0,0,Czechoslovakia, ,BRA,TCH
+1962,6/2/1962,Group 4,England,3,1,Argentina, ,ENG,ARG
+1962,6/2/1962,Group 2,Chile,2,0,Italy, ,CHI,ITA
+1962,6/3/1962,Group 1,Soviet Union,4,4,Colombia, ,URS,COL
+1962,6/3/1962,Group 3,Spain,1,0,Mexico, ,ESP,MEX
+1962,6/3/1962,Group 4,Hungary,6,1,Bulgaria, ,HUN,BUL
+1962,6/3/1962,Group 2,Germany,2,1,Switzerland, ,GER,SUI
+1962,6/6/1962,Group 1,Soviet Union,2,1,Uruguay, ,URS,URU
+1962,6/6/1962,Group 3,Brazil,2,1,Spain, ,BRA,ESP
+1962,6/6/1962,Group 4,Hungary,0,0,Argentina, ,HUN,ARG
+1962,6/6/1962,Group 2,Germany,2,0,Chile, ,GER,CHI
+1962,6/7/1962,Group 1,Yugoslavia,5,0,Colombia, ,YUG,COL
+1962,6/7/1962,Group 3,Mexico,3,1,Czechoslovakia, ,MEX,TCH
+1962,6/7/1962,Group 4,England,0,0,Bulgaria, ,ENG,BUL
+1962,6/7/1962,Group 2,Italy,3,0,Switzerland, ,ITA,SUI
+1962,6/10/1962,Quarter-finals,Chile,2,1,Soviet Union, ,CHI,URS
+1962,6/10/1962,Quarter-finals,Brazil,3,1,England, ,BRA,ENG
+1962,6/10/1962,Quarter-finals,Czechoslovakia,1,0,Hungary, ,TCH,HUN
+1962,6/10/1962,Quarter-finals,Yugoslavia,1,0,Germany, ,YUG,GER
+1962,6/13/1962,Semi-finals,Czechoslovakia,3,1,Yugoslavia, ,TCH,YUG
+1962,6/13/1962,Semi-finals,Brazil,4,2,Chile, ,BRA,CHI
+1962,6/16/1962,Third place,Chile,1,0,Yugoslavia, ,CHI,YUG
+1962,6/17/1962,Final,Brazil,3,1,Czechoslovakia, ,BRA,TCH
+1966,7/11/1966,Group 1,England,0,0,Uruguay, ,ENG,URU
+1966,7/12/1966,Group 2,Germany,5,0,Switzerland, ,GER,SUI
+1966,7/12/1966,Group 3,Brazil,2,0,Bulgaria, ,BRA,BUL
+1966,7/12/1966,Group 4,Soviet Union,3,0,Korea DPR, ,URS,PRK
+1966,7/13/1966,Group 1,France,1,1,Mexico, ,FRA,MEX
+1966,7/13/1966,Group 3,Portugal,3,1,Hungary, ,POR,HUN
+1966,7/13/1966,Group 2,Argentina,2,1,Spain, ,ARG,ESP
+1966,7/13/1966,Group 4,Italy,2,0,Chile, ,ITA,CHI
+1966,7/15/1966,Group 1,Uruguay,2,1,France, ,URU,FRA
+1966,7/15/1966,Group 2,Spain,2,1,Switzerland, ,ESP,SUI
+1966,7/15/1966,Group 3,Hungary,3,1,Brazil, ,HUN,BRA
+1966,7/15/1966,Group 4,Korea DPR,1,1,Chile, ,PRK,CHI
+1966,7/16/1966,Group 3,Portugal,3,0,Bulgaria, ,POR,BUL
+1966,7/16/1966,Group 2,Germany,0,0,Argentina, ,GER,ARG
+1966,7/16/1966,Group 4,Soviet Union,1,0,Italy, ,URS,ITA
+1966,7/16/1966,Group 1,England,2,0,Mexico, ,ENG,MEX
+1966,7/19/1966,Group 1,Uruguay,0,0,Mexico, ,URU,MEX
+1966,7/19/1966,Group 2,Argentina,2,0,Switzerland, ,ARG,SUI
+1966,7/19/1966,Group 3,Portugal,3,1,Brazil, ,POR,BRA
+1966,7/19/1966,Group 4,Korea DPR,1,0,Italy, ,PRK,ITA
+1966,7/20/1966,Group 1,England,2,0,France, ,ENG,FRA
+1966,7/20/1966,Group 3,Hungary,3,1,Bulgaria, ,HUN,BUL
+1966,7/20/1966,Group 2,Germany,2,1,Spain, ,GER,ESP
+1966,7/20/1966,Group 4,Soviet Union,2,1,Chile, ,URS,CHI
+1966,7/23/1966,Quarter-finals,England,1,0,Argentina, ,ENG,ARG
+1966,7/23/1966,Quarter-finals,Germany,4,0,Uruguay, ,GER,URU
+1966,7/23/1966,Quarter-finals,Soviet Union,2,1,Hungary, ,URS,HUN
+1966,7/23/1966,Quarter-finals,Portugal,5,3,Korea DPR, ,POR,PRK
+1966,7/25/1966,Semi-finals,Germany,2,1,Soviet Union, ,GER,URS
+1966,7/26/1966,Semi-finals,England,2,1,Portugal, ,ENG,POR
+1966,7/28/1966,Third place,Portugal,2,1,Soviet Union, ,POR,URS
+1966,7/30/1966,Final,England,4,2,Germany,England win after extra time ,ENG,GER
+1970,5/31/1970,Group 1,Mexico,0,0,Soviet Union, ,MEX,URS
+1970,6/2/1970,Group 2,Uruguay,2,0,Israel, ,URU,ISR
+1970,6/2/1970,Group 4,Peru,3,2,Bulgaria, ,PER,BUL
+1970,6/2/1970,Group 3,England,1,0,Romania, ,ENG,ROU
+1970,6/3/1970,Group 2,Italy,1,0,Sweden, ,ITA,SWE
+1970,6/3/1970,Group 4,Germany,2,1,Morocco, ,GER,MAR
+1970,6/3/1970,Group 3,Brazil,4,1,Czechoslovakia, ,BRA,TCH
+1970,6/3/1970,Group 1,Belgium,3,0,El Salvador, ,BEL,SLV
+1970,6/6/1970,Group 2,Uruguay,0,0,Italy, ,URU,ITA
+1970,6/6/1970,Group 4,Peru,3,0,Morocco, ,PER,MAR
+1970,6/6/1970,Group 3,Romania,2,1,Czechoslovakia, ,ROU,TCH
+1970,6/6/1970,Group 1,Soviet Union,4,1,Belgium, ,URS,BEL
+1970,6/7/1970,Group 2,Sweden,1,1,Israel, ,SWE,ISR
+1970,6/7/1970,Group 4,Germany,5,2,Bulgaria, ,GER,BUL
+1970,6/7/1970,Group 3,Brazil,1,0,England, ,BRA,ENG
+1970,6/7/1970,Group 1,Mexico,4,0,El Salvador, ,MEX,SLV
+1970,6/10/1970,Group 2,Sweden,1,0,Uruguay, ,SWE,URU
+1970,6/10/1970,Group 4,Germany,3,1,Peru, ,GER,PER
+1970,6/10/1970,Group 3,Brazil,3,2,Romania, ,BRA,ROU
+1970,6/10/1970,Group 1,Soviet Union,2,0,El Salvador, ,URS,SLV
+1970,6/11/1970,Group 2,Italy,0,0,Israel, ,ITA,ISR
+1970,6/11/1970,Group 4,Bulgaria,1,1,Morocco, ,BUL,MAR
+1970,6/11/1970,Group 3,England,1,0,Czechoslovakia, ,ENG,TCH
+1970,6/11/1970,Group 1,Mexico,1,0,Belgium, ,MEX,BEL
+1970,6/14/1970,Quarter-finals,Italy,4,1,Mexico, ,ITA,MEX
+1970,6/14/1970,Quarter-finals,Germany,3,2,England,Germany FR win after extra time ,GER,ENG
+1970,6/14/1970,Quarter-finals,Brazil,4,2,Peru, ,BRA,PER
+1970,6/14/1970,Quarter-finals,Uruguay,1,0,Soviet Union,Uruguay win after extra time ,URU,URS
+1970,6/17/1970,Semi-finals,Brazil,3,1,Uruguay, ,BRA,URU
+1970,6/17/1970,Semi-finals,Italy,4,3,Germany,Italy win after extra time ,ITA,GER
+1970,6/20/1970,Third place,Germany,1,0,Uruguay, ,GER,URU
+1970,6/21/1970,Final,Brazil,4,1,Italy, ,BRA,ITA
+1974,6/13/1974,Group 2,Brazil,0,0,Yugoslavia, ,BRA,YUG
+1974,6/14/1974,Group 1,Germany,1,0,Chile, ,GER,CHI
+1974,6/14/1974,Group 1,Germany,2,0,Australia, ,GER,AUS
+1974,6/14/1974,Group 2,Zaire,0,2,Scotland, ,ZAI,SCO
+1974,6/15/1974,Group 3,Uruguay,0,2,Netherlands, ,URU,NED
+1974,6/15/1974,Group 3,Sweden,0,0,Bulgaria, ,SWE,BUL
+1974,6/15/1974,Group 4,Italy,3,1,Haiti, ,ITA,HAI
+1974,6/15/1974,Group 4,Poland,3,2,Argentina, ,POL,ARG
+1974,6/18/1974,Group 1,Australia,0,3,Germany, ,AUS,GER
+1974,6/18/1974,Group 2,Scotland,0,0,Brazil, ,SCO,BRA
+1974,6/18/1974,Group 1,Chile,1,1,Germany, ,CHI,GER
+1974,6/18/1974,Group 2,Yugoslavia,9,0,Zaire, ,YUG,ZAI
+1974,6/19/1974,Group 3,Netherlands,0,0,Sweden, ,NED,SWE
+1974,6/19/1974,Group 3,Bulgaria,1,1,Uruguay, ,BUL,URU
+1974,6/19/1974,Group 4,Haiti,0,7,Poland, ,HAI,POL
+1974,6/19/1974,Group 4,Argentina,1,1,Italy, ,ARG,ITA
+1974,6/22/1974,Group 2,Scotland,1,1,Yugoslavia, ,SCO,YUG
+1974,6/22/1974,Group 1,Australia,0,0,Chile, ,AUS,CHI
+1974,6/22/1974,Group 2,Zaire,0,3,Brazil, ,ZAI,BRA
+1974,6/22/1974,Group 1,Germany,1,0,Germany, ,GER,GER
+1974,6/23/1974,Group 3,Bulgaria,1,4,Netherlands, ,BUL,NED
+1974,6/23/1974,Group 4,Argentina,4,1,Haiti, ,ARG,HAI
+1974,6/23/1974,Group 3,Sweden,3,0,Uruguay, ,SWE,URU
+1974,6/23/1974,Group 4,Poland,2,1,Italy, ,POL,ITA
+1974,6/26/1974,Group B,Yugoslavia,0,2,Germany, ,YUG,GER
+1974,6/26/1974,Group A,Brazil,1,0,Germany, ,BRA,GER
+1974,6/26/1974,Group A,Netherlands,4,0,Argentina, ,NED,ARG
+1974,6/26/1974,Group B,Sweden,0,1,Poland, ,SWE,POL
+1974,6/30/1974,Group A,Argentina,1,2,Brazil, ,ARG,BRA
+1974,6/30/1974,Group B,Poland,2,1,Yugoslavia, ,POL,YUG
+1974,6/30/1974,Group A,Germany,0,2,Netherlands, ,GER,NED
+1974,6/30/1974,Group B,Germany,4,2,Sweden, ,GER,SWE
+1974,7/3/1974,Group B,Poland,0,1,Germany, ,POL,GER
+1974,7/3/1974,Group A,Netherlands,2,0,Brazil, ,NED,BRA
+1974,7/3/1974,Group A,Argentina,1,1,Germany, ,ARG,GER
+1974,7/3/1974,Group B,Sweden,2,1,Yugoslavia, ,SWE,YUG
+1974,7/6/1974,Third place,Brazil,0,1,Poland, ,BRA,POL
+1974,7/7/1974,Final,Netherlands,1,2,Germany, ,NED,GER
+1978,6/1/1978,Group 2,Germany,0,0,Poland, ,GER,POL
+1978,6/2/1978,Group 1,Italy,2,1,France, ,ITA,FRA
+1978,6/2/1978,Group 2,Tunisia,3,1,Mexico, ,TUN,MEX
+1978,6/2/1978,Group 1,Argentina,2,1,Hungary, ,ARG,HUN
+1978,6/3/1978,Group 3,Sweden,1,1,Brazil, ,SWE,BRA
+1978,6/3/1978,Group 3,Austria,2,1,Spain, ,AUT,ESP
+1978,6/3/1978,Group 4,Peru,3,1,Scotland, ,PER,SCO
+1978,6/3/1978,Group 4,Netherlands,3,0,IR Iran, ,NED,IRN
+1978,6/6/1978,Group 1,Italy,3,1,Hungary, ,ITA,HUN
+1978,6/6/1978,Group 2,Poland,1,0,Tunisia, ,POL,TUN
+1978,6/6/1978,Group 2,Germany,6,0,Mexico, ,GER,MEX
+1978,6/6/1978,Group 1,Argentina,2,1,France, ,ARG,FRA
+1978,6/7/1978,Group 3,Brazil,0,0,Spain, ,BRA,ESP
+1978,6/7/1978,Group 3,Austria,1,0,Sweden, ,AUT,SWE
+1978,6/7/1978,Group 4,Scotland,1,1,IR Iran, ,SCO,IRN
+1978,6/7/1978,Group 4,Netherlands,0,0,Peru, ,NED,PER
+1978,6/10/1978,Group 1,France,3,1,Hungary, ,FRA,HUN
+1978,6/10/1978,Group 2,Poland,3,1,Mexico, ,POL,MEX
+1978,6/10/1978,Group 2,Germany,0,0,Tunisia, ,GER,TUN
+1978,6/10/1978,Group 1,Italy,1,0,Argentina, ,ITA,ARG
+1978,6/11/1978,Group 3,Brazil,1,0,Austria, ,BRA,AUT
+1978,6/11/1978,Group 3,Spain,1,0,Sweden, ,ESP,SWE
+1978,6/11/1978,Group 4,Peru,4,1,Iran, ,PER,IRN
+1978,6/11/1978,Group 4,Scotland,3,2,Netherlands, ,SCO,NED
+1978,6/14/1978,Group A,Germany,0,0,Italy, ,GER,ITA
+1978,6/14/1978,Group A,Netherlands,5,1,Austria, ,NED,AUT
+1978,6/14/1978,Group B,Brazil,3,0,Peru, ,BRA,PER
+1978,6/14/1978,Group B,Argentina,2,0,Poland, ,ARG,POL
+1978,6/18/1978,Group B,Poland,1,0,Peru, ,POL,PER
+1978,6/18/1978,Group A,Italy,1,0,Austria, ,ITA,AUT
+1978,6/18/1978,Group A,Germany,2,2,Netherlands, ,GER,NED
+1978,6/18/1978,Group B,Argentina,0,0,Brazil, ,ARG,BRA
+1978,6/21/1978,Group A,Netherlands,2,1,Italy, ,NED,ITA
+1978,6/21/1978,Group A,Austria,3,2,Germany, ,AUT,GER
+1978,6/21/1978,Group B,Brazil,3,1,Poland, ,BRA,POL
+1978,6/21/1978,Group B,Argentina,6,0,Peru, ,ARG,PER
+1978,6/24/1978,Third place,Brazil,2,1,Italy, ,BRA,ITA
+1978,6/25/1978,Final,Argentina,3,1,Netherlands,Argentina win after extra time ,ARG,NED
+1982,6/13/1982,Group 3,Argentina,0,1,Belgium, ,ARG,BEL
+1982,6/14/1982,Group 1,Italy,0,0,Poland, ,ITA,POL
+1982,6/14/1982,Group 6,Brazil,2,1,Soviet Union, ,BRA,URS
+1982,6/15/1982,Group 1,Peru,0,0,Cameroon, ,PER,CMR
+1982,6/15/1982,Group 3,Hungary,10,1,El Salvador, ,HUN,SLV
+1982,6/15/1982,Group 6,Scotland,5,2,New Zealand, ,SCO,NZL
+1982,6/16/1982,Group 2,Germany,1,2,Algeria, ,GER,ALG
+1982,6/16/1982,Group 4,England,3,1,France, ,ENG,FRA
+1982,6/16/1982,Group 5,Spain,1,1,Honduras, ,ESP,HON
+1982,6/17/1982,Group 2,Chile,0,1,Austria, ,CHI,AUT
+1982,6/17/1982,Group 4,Czechoslovakia,1,1,Kuwait, ,TCH,KUW
+1982,6/17/1982,Group 5,Yugoslavia,0,0,Northern Ireland, ,YUG,NIR
+1982,6/18/1982,Group 1,Italy,1,1,Peru, ,ITA,PER
+1982,6/18/1982,Group 3,Argentina,4,1,Hungary, ,ARG,HUN
+1982,6/18/1982,Group 6,Brazil,4,1,Scotland, ,BRA,SCO
+1982,6/19/1982,Group 1,Poland,0,0,Cameroon, ,POL,CMR
+1982,6/19/1982,Group 3,Belgium,1,0,El Salvador, ,BEL,SLV
+1982,6/19/1982,Group 6,Soviet Union,3,0,New Zealand, ,URS,NZL
+1982,6/20/1982,Group 2,Germany,4,1,Chile, ,GER,CHI
+1982,6/20/1982,Group 4,England,2,0,Czechoslovakia, ,ENG,TCH
+1982,6/20/1982,Group 5,Spain,2,1,Yugoslavia, ,ESP,YUG
+1982,6/21/1982,Group 2,Algeria,0,2,Austria, ,ALG,AUT
+1982,6/21/1982,Group 4,France,4,1,Kuwait, ,FRA,KUW
+1982,6/21/1982,Group 5,Honduras,1,1,Northern Ireland, ,HON,NIR
+1982,6/22/1982,Group 1,Poland,5,1,Peru, ,POL,PER
+1982,6/22/1982,Group 3,Belgium,1,1,Hungary, ,BEL,HUN
+1982,6/22/1982,Group 6,Soviet Union,2,2,Scotland, ,URS,SCO
+1982,6/23/1982,Group 1,Italy,1,1,Cameroon, ,ITA,CMR
+1982,6/23/1982,Group 3,Argentina,2,0,El Salvador, ,ARG,SLV
+1982,6/23/1982,Group 6,Brazil,4,0,New Zealand, ,BRA,NZL
+1982,6/24/1982,Group 2,Algeria,3,2,Chile, ,ALG,CHI
+1982,6/24/1982,Group 4,France,1,1,Czechoslovakia, ,FRA,TCH
+1982,6/24/1982,Group 5,Honduras,0,1,Yugoslavia, ,HON,YUG
+1982,6/25/1982,Group 2,Germany,1,0,Austria, ,GER,AUT
+1982,6/25/1982,Group 4,England,1,0,Kuwait, ,ENG,KUW
+1982,6/25/1982,Group 5,Northern Ireland,1,0,Spain, ,NIR,ESP
+1982,6/28/1982,Group 4,Austria,0,1,France, ,AUT,FRA
+1982,6/28/1982,Group 1,Poland,3,0,Belgium, ,POL,BEL
+1982,6/29/1982,Group 3,Italy,2,1,Argentina, ,ITA,ARG
+1982,6/29/1982,Group 2,Germany,0,0,England, ,GER,ENG
+1982,7/1/1982,Group 4,Austria,2,2,Northern Ireland, ,AUT,NIR
+1982,7/1/1982,Group 1,Belgium,0,1,Soviet Union, ,BEL,URS
+1982,7/2/1982,Group 3,Argentina,1,3,Brazil, ,ARG,BRA
+1982,7/2/1982,Group 2,Germany,2,1,Spain, ,GER,ESP
+1982,7/4/1982,Group 4,France,4,1,Northern Ireland, ,FRA,NIR
+1982,7/4/1982,Group 1,Poland,0,0,Soviet Union, ,POL,URS
+1982,7/5/1982,Group 3,Italy,3,2,Brazil, ,ITA,BRA
+1982,7/5/1982,Group 2,Spain,0,0,England, ,ESP,ENG
+1982,7/8/1982,Semi-finals,Poland,0,2,Italy, ,POL,ITA
+1982,7/8/1982,Semi-finals,Germany,3,3,France, win on penalties (5 - 4) ,GER,FRA
+1982,7/10/1982,Third place,Poland,3,2,France, ,POL,FRA
+1982,7/11/1982,Final,Italy,3,1,Germany, ,ITA,GER
+1986,5/31/1986,Group A,Bulgaria,1,1,Italy, ,BUL,ITA
+1986,6/1/1986,Group C,Canada,0,1,France, ,CAN,FRA
+1986,6/1/1986,Group D,Spain,0,1,Brazil, ,ESP,BRA
+1986,6/2/1986,Group C,Soviet Union,6,0,Hungary, ,URS,HUN
+1986,6/2/1986,Group A,Argentina,3,1,Korea Republic, ,ARG,KOR
+1986,6/2/1986,Group F,Morocco,0,0,Poland, ,MAR,POL
+1986,6/3/1986,Group D,Algeria,1,1,Northern Ireland, ,ALG,NIR
+1986,6/3/1986,Group B,Belgium,1,2,Mexico, ,BEL,MEX
+1986,6/3/1986,Group F,Portugal,1,0,England, ,POR,ENG
+1986,6/4/1986,Group B,Paraguay,1,0,Iraq, ,PAR,IRQ
+1986,6/4/1986,Group E,Scotland,0,1,Denmark, ,SCO,DEN
+1986,6/4/1986,Group E,Uruguay,1,1,Germany, ,URU,GER
+1986,6/5/1986,Group A,Italy,1,1,Argentina, ,ITA,ARG
+1986,6/5/1986,Group C,France,1,1,Soviet Union, ,FRA,URS
+1986,6/5/1986,Group A,Korea Republic,1,1,Bulgaria, ,KOR,BUL
+1986,6/6/1986,Group C,Hungary,2,0,Canada, ,HUN,CAN
+1986,6/6/1986,Group D,Brazil,1,0,Algeria, ,BRA,ALG
+1986,6/6/1986,Group F,England,0,0,Morocco, ,ENG,MAR
+1986,6/7/1986,Group D,Northern Ireland,1,2,Spain, ,NIR,ESP
+1986,6/7/1986,Group B,Mexico,1,1,Paraguay, ,MEX,PAR
+1986,6/7/1986,Group F,Poland,1,0,Portugal, ,POL,POR
+1986,6/8/1986,Group B,Iraq,1,2,Belgium, ,IRQ,BEL
+1986,6/8/1986,Group E,Denmark,6,1,Uruguay, ,DEN,URU
+1986,6/8/1986,Group E,Germany,2,1,Scotland, ,GER,SCO
+1986,6/9/1986,Group C,Hungary,0,3,France, ,HUN,FRA
+1986,6/9/1986,Group C,Soviet Union,2,0,Canada, ,URS,CAN
+1986,6/10/1986,Group A,Korea Republic,2,3,Italy, ,KOR,ITA
+1986,6/10/1986,Group A,Argentina,2,0,Bulgaria, ,ARG,BUL
+1986,6/11/1986,Group B,Paraguay,2,2,Belgium, ,PAR,BEL
+1986,6/11/1986,Group B,Iraq,0,1,Mexico, ,IRQ,MEX
+1986,6/11/1986,Group F,Portugal,1,3,Morocco, ,POR,MAR
+1986,6/11/1986,Group F,England,3,0,Poland, ,ENG,POL
+1986,6/12/1986,Group D,Northern Ireland,0,3,Brazil, ,NIR,BRA
+1986,6/12/1986,Group D,Algeria,0,3,Spain, ,ALG,ESP
+1986,6/13/1986,Group E,Scotland,0,0,Uruguay, ,SCO,URU
+1986,6/13/1986,Group E,Denmark,2,0,Germany, ,DEN,GER
+1986,6/15/1986,Round of 16,Soviet Union,3,4,Belgium,Belgium win after extra time ,URS,BEL
+1986,6/15/1986,Round of 16,Mexico,2,0,Bulgaria, ,MEX,BUL
+1986,6/16/1986,Round of 16,Argentina,1,0,Uruguay, ,ARG,URU
+1986,6/16/1986,Round of 16,Brazil,4,0,Poland, ,BRA,POL
+1986,6/17/1986,Round of 16,Italy,0,2,France, ,ITA,FRA
+1986,6/17/1986,Round of 16,Morocco,0,1,Germany, ,MAR,GER
+1986,6/18/1986,Round of 16,England,3,0,Paraguay, ,ENG,PAR
+1986,6/18/1986,Round of 16,Denmark,1,5,Spain, ,DEN,ESP
+1986,6/21/1986,Quarter-finals,Brazil,1,1,France,France win on penalties (3 - 4) ,BRA,FRA
+1986,6/21/1986,Quarter-finals,Germany,0,0,Mexico,Germany FR win on penalties (4 - 1) ,GER,MEX
+1986,6/22/1986,Quarter-finals,Spain,1,1,Belgium,Belgium win on penalties (4 - 5) ,ESP,BEL
+1986,6/22/1986,Quarter-finals,Argentina,2,1,England, ,ARG,ENG
+1986,6/25/1986,Semi-finals,France,0,2,Germany, ,FRA,GER
+1986,6/25/1986,Semi-finals,Argentina,2,0,Belgium, ,ARG,BEL
+1986,6/28/1986,Third place,France,4,2,Belgium,France win after extra time ,FRA,BEL
+1986,6/29/1986,Final,Argentina,3,2,Germany, ,ARG,GER
+1990,6/8/1990,Group B,Argentina,0,1,Cameroon, ,ARG,CMR
+1990,6/9/1990,Group B,Soviet Union,0,2,Romania, ,URS,ROU
+1990,6/9/1990,Group D,United Arab Emirates,0,2,Colombia, ,UAE,COL
+1990,6/9/1990,Group A,Italy,1,0,Austria, ,ITA,AUT
+1990,6/10/1990,Group A,USA,1,5,Czechoslovakia, ,USA,TCH
+1990,6/10/1990,Group C,Brazil,2,1,Sweden, ,BRA,SWE
+1990,6/10/1990,Group D,Germany,4,1,Yugoslavia, ,GER,YUG
+1990,6/11/1990,Group C,Costa Rica,1,0,Scotland, ,CRC,SCO
+1990,6/11/1990,Group F,England,1,1,Republic of Ireland, ,ENG,IRL
+1990,6/12/1990,Group E,Belgium,2,0,Korea Republic, ,BEL,KOR
+1990,6/12/1990,Group F,Netherlands,1,1,Egypt, ,NED,EGY
+1990,6/13/1990,Group E,Uruguay,0,0,Spain, ,URU,ESP
+1990,6/13/1990,Group B,Argentina,2,0,Soviet Union, ,ARG,URS
+1990,6/14/1990,Group B,Cameroon,2,1,Romania, ,CMR,ROU
+1990,6/14/1990,Group D,Yugoslavia,1,0,Colombia, ,YUG,COL
+1990,6/14/1990,Group A,Italy,1,0,USA, ,ITA,USA
+1990,6/15/1990,Group A,Austria,0,1,Czechoslovakia, ,AUT,TCH
+1990,6/15/1990,Group D,Germany,5,1,United Arab Emirates, ,GER,UAE
+1990,6/16/1990,Group C,Brazil,1,0,Costa Rica, ,BRA,CRC
+1990,6/16/1990,Group C,Sweden,1,2,Scotland, ,SWE,SCO
+1990,6/16/1990,Group F,England,0,0,Netherlands, ,ENG,NED
+1990,6/17/1990,Group F,Republic of Ireland,0,0,Egypt, ,IRL,EGY
+1990,6/17/1990,Group E,Korea Republic,1,3,Spain, ,KOR,ESP
+1990,6/17/1990,Group E,Belgium,3,1,Uruguay, ,BEL,URU
+1990,6/18/1990,Group B,Argentina,1,1,Romania, ,ARG,ROU
+1990,6/18/1990,Group B,Cameroon,0,4,Soviet Union, ,CMR,URS
+1990,6/19/1990,Group D,Germany,1,1,Colombia, ,GER,COL
+1990,6/19/1990,Group D,Yugoslavia,4,1,United Arab Emirates, ,YUG,UAE
+1990,6/19/1990,Group A,Italy,2,0,Czechoslovakia, ,ITA,TCH
+1990,6/19/1990,Group A,Austria,2,1,USA, ,AUT,USA
+1990,6/20/1990,Group C,Brazil,1,0,Scotland, ,BRA,SCO
+1990,6/20/1990,Group C,Sweden,1,2,Costa Rica, ,SWE,CRC
+1990,6/21/1990,Group E,Korea Republic,0,1,Uruguay, ,KOR,URU
+1990,6/21/1990,Group E,Belgium,1,2,Spain, ,BEL,ESP
+1990,6/21/1990,Group F,Republic of Ireland,1,1,Netherlands, ,IRL,NED
+1990,6/21/1990,Group F,England,1,0,Egypt, ,ENG,EGY
+1990,6/23/1990,Round of 16,Cameroon,2,1,Colombia,Cameroon win after extra time ,CMR,COL
+1990,6/23/1990,Round of 16,Czechoslovakia,4,1,Costa Rica, ,TCH,CRC
+1990,6/24/1990,Round of 16,Brazil,0,1,Argentina, ,BRA,ARG
+1990,6/24/1990,Round of 16,Germany,2,1,Netherlands, ,GER,NED
+1990,6/25/1990,Round of 16,Republic of Ireland,0,0,Romania,Republic of Ireland win on penalties (5 - 4) ,IRL,ROU
+1990,6/25/1990,Round of 16,Italy,2,0,Uruguay, ,ITA,URU
+1990,6/26/1990,Round of 16,Spain,1,2,Yugoslavia,Yugoslavia win after extra time ,ESP,YUG
+1990,6/26/1990,Round of 16,England,1,0,Belgium,England win after extra time ,ENG,BEL
+1990,6/30/1990,Quarter-finals,Yugoslavia,0,0,Argentina, win on penalties (2 - 3) ,YUG,ARG
+1990,6/30/1990,Quarter-finals,Italy,1,0,Republic of Ireland, ,ITA,IRL
+1990,7/1/1990,Quarter-finals,Germany,1,0,Czechoslovakia, ,GER,TCH
+1990,7/1/1990,Quarter-finals,England,3,2,Cameroon,England win after extra time ,ENG,CMR
+1990,7/3/1990,Semi-finals,Italy,1,1,Argentina, win on penalties (3 - 4) ,ITA,ARG
+1990,7/4/1990,Semi-finals,Germany,1,1,England, win on penalties (4 - 3) ,GER,ENG
+1990,7/7/1990,Third place,Italy,2,1,England, ,ITA,ENG
+1990,7/8/1990,Final,Germany,1,0,Argentina, ,GER,ARG
+1994,6/17/1994,Group C,Spain,2,2,Korea Republic, ,ESP,KOR
+1994,6/17/1994,Group C,Germany,1,0,Bolivia, ,GER,BOL
+1994,6/18/1994,Group A,USA,1,1,Switzerland, ,USA,SUI
+1994,6/18/1994,Group E,Italy,0,1,Republic of Ireland, ,ITA,IRL
+1994,6/18/1994,Group A,Colombia,1,3,Romania, ,COL,ROU
+1994,6/19/1994,Group F,Belgium,1,0,Morocco, ,BEL,MAR
+1994,6/19/1994,Group E,Norway,1,0,Mexico, ,NOR,MEX
+1994,6/19/1994,Group B,Cameroon,2,2,Sweden, ,CMR,SWE
+1994,6/20/1994,Group F,Netherlands,2,1,Saudi Arabia, ,NED,KSA
+1994,6/20/1994,Group B,Brazil,2,0,Russia, ,BRA,RUS
+1994,6/21/1994,Group D,Argentina,4,0,Greece, ,ARG,GRE
+1994,6/21/1994,Group D,Nigeria,3,0,Bulgaria, ,NGA,BUL
+1994,6/21/1994,Group C,Germany,1,1,Spain, ,GER,ESP
+1994,6/22/1994,Group A,Romania,1,4,Switzerland, ,ROU,SUI
+1994,6/22/1994,Group A,USA,2,1,Colombia, ,USA,COL
+1994,6/23/1994,Group E,Italy,1,0,Norway, ,ITA,NOR
+1994,6/23/1994,Group C,Korea Republic,0,0,Bolivia, ,KOR,BOL
+1994,6/24/1994,Group E,Mexico,2,1,Republic of Ireland, ,MEX,IRL
+1994,6/24/1994,Group B,Sweden,3,1,Russia, ,SWE,RUS
+1994,6/24/1994,Group B,Brazil,3,0,Cameroon, ,BRA,CMR
+1994,6/25/1994,Group F,Belgium,1,0,Netherlands, ,BEL,NED
+1994,6/25/1994,Group F,Saudi Arabia,2,1,Morocco, ,KSA,MAR
+1994,6/25/1994,Group D,Argentina,2,1,Nigeria, ,ARG,NGA
+1994,6/26/1994,Group D,Bulgaria,4,0,Greece, ,BUL,GRE
+1994,6/26/1994,Group A,USA,0,1,Romania, ,USA,ROU
+1994,6/26/1994,Group A,Switzerland,0,2,Colombia, ,SUI,COL
+1994,6/27/1994,Group C,Germany,3,2,Korea Republic, ,GER,KOR
+1994,6/27/1994,Group C,Bolivia,1,3,Spain, ,BOL,ESP
+1994,6/28/1994,Group E,Republic of Ireland,0,0,Norway, ,IRL,NOR
+1994,6/28/1994,Group B,Brazil,1,1,Sweden, ,BRA,SWE
+1994,6/28/1994,Group E,Italy,1,1,Mexico, ,ITA,MEX
+1994,6/28/1994,Group B,Russia,6,1,Cameroon, ,RUS,CMR
+1994,6/29/1994,Group F,Morocco,1,2,Netherlands, ,MAR,NED
+1994,6/29/1994,Group F,Belgium,0,1,Saudi Arabia, ,BEL,KSA
+1994,6/30/1994,Group D,Greece,0,2,Nigeria, ,GRE,NGA
+1994,6/30/1994,Group D,Argentina,0,2,Bulgaria, ,ARG,BUL
+1994,7/2/1994,Round of 16,Germany,3,2,Belgium, ,GER,BEL
+1994,7/2/1994,Round of 16,Spain,3,0,Switzerland, ,ESP,SUI
+1994,7/3/1994,Round of 16,Saudi Arabia,1,3,Sweden, ,KSA,SWE
+1994,7/3/1994,Round of 16,Romania,3,2,Argentina, ,ROU,ARG
+1994,7/4/1994,Round of 16,Netherlands,2,0,Republic of Ireland, ,NED,IRL
+1994,7/4/1994,Round of 16,Brazil,1,0,USA, ,BRA,USA
+1994,7/5/1994,Round of 16,Nigeria,1,2,Italy,Italy win after extra time ,NGA,ITA
+1994,7/5/1994,Round of 16,Mexico,1,1,Bulgaria,Bulgaria win on penalties (1 - 3) ,MEX,BUL
+1994,7/9/1994,Quarter-finals,Italy,2,1,Spain, ,ITA,ESP
+1994,7/9/1994,Quarter-finals,Netherlands,2,3,Brazil, ,NED,BRA
+1994,7/10/1994,Quarter-finals,Bulgaria,2,1,Germany, ,BUL,GER
+1994,7/10/1994,Quarter-finals,Romania,2,2,Sweden,Sweden win on penalties (4 - 5) ,ROU,SWE
+1994,7/13/1994,Semi-finals,Bulgaria,1,2,Italy, ,BUL,ITA
+1994,7/13/1994,Semi-finals,Sweden,0,1,Brazil, ,SWE,BRA
+1994,7/16/1994,Third place,Sweden,4,0,Bulgaria, ,SWE,BUL
+1994,7/17/1994,Final,Brazil,0,0,Italy,Brazil win on penalties (3 - 2) ,BRA,ITA
+1998,6/10/1998,Group A,Brazil,2,1,Scotland, ,BRA,SCO
+1998,6/10/1998,Group A,Morocco,2,2,Norway, ,MAR,NOR
+1998,6/11/1998,Group B,Italy,2,2,Chile, ,ITA,CHI
+1998,6/11/1998,Group B,Cameroon,1,1,Austria, ,CMR,AUT
+1998,6/12/1998,Group D,Paraguay,0,0,Bulgaria, ,PAR,BUL
+1998,6/12/1998,Group C,Saudi Arabia,0,1,Denmark, ,KSA,DEN
+1998,6/12/1998,Group C,France,3,0,South Africa, ,FRA,RSA
+1998,6/13/1998,Group D,Spain,2,3,Nigeria, ,ESP,NGA
+1998,6/13/1998,Group E,Korea Republic,1,3,Mexico, ,KOR,MEX
+1998,6/13/1998,Group E,Netherlands,0,0,Belgium, ,NED,BEL
+1998,6/14/1998,Group H,Argentina,1,0,Japan, ,ARG,JPN
+1998,6/14/1998,Group F,Yugoslavia,1,0,Iran, ,YUG,IRN
+1998,6/14/1998,Group H,Jamaica,1,3,Croatia, ,JAM,CRO
+1998,6/15/1998,Group G,England,2,0,Tunisia, ,ENG,TUN
+1998,6/15/1998,Group G,Romania,1,0,Colombia, ,ROU,COL
+1998,6/15/1998,Group F,Germany,2,0,USA, ,GER,USA
+1998,6/16/1998,Group A,Scotland,1,1,Norway, ,SCO,NOR
+1998,6/16/1998,Group A,Brazil,3,0,Morocco, ,BRA,MAR
+1998,6/17/1998,Group B,Chile,1,1,Austria, ,CHI,AUT
+1998,6/17/1998,Group B,Italy,3,0,Cameroon, ,ITA,CMR
+1998,6/18/1998,Group C,South Africa,1,1,Denmark, ,RSA,DEN
+1998,6/18/1998,Group C,France,4,0,Saudi Arabia, ,FRA,KSA
+1998,6/19/1998,Group D,Nigeria,1,0,Bulgaria, ,NGA,BUL
+1998,6/19/1998,Group D,Spain,0,0,Paraguay, ,ESP,PAR
+1998,6/20/1998,Group H,Japan,0,1,Croatia, ,JPN,CRO
+1998,6/20/1998,Group E,Belgium,2,2,Mexico, ,BEL,MEX
+1998,6/20/1998,Group E,Netherlands,5,0,Korea Republic, ,NED,KOR
+1998,6/21/1998,Group F,Germany,2,2,Yugoslavia, ,GER,YUG
+1998,6/21/1998,Group H,Argentina,5,0,Jamaica, ,ARG,JAM
+1998,6/21/1998,Group F,USA,1,2,Iran, ,USA,IRN
+1998,6/22/1998,Group G,Colombia,1,0,Tunisia, ,COL,TUN
+1998,6/22/1998,Group G,Romania,2,1,England, ,ROU,ENG
+1998,6/23/1998,Group B,Italy,2,1,Austria, ,ITA,AUT
+1998,6/23/1998,Group B,Chile,1,1,Cameroon, ,CHI,CMR
+1998,6/23/1998,Group A,Scotland,0,3,Morocco, ,SCO,MAR
+1998,6/23/1998,Group A,Brazil,1,2,Norway, ,BRA,NOR
+1998,6/24/1998,Group C,France,2,1,Denmark, ,FRA,DEN
+1998,6/24/1998,Group C,South Africa,2,2,Saudi Arabia, ,RSA,KSA
+1998,6/24/1998,Group D,Spain,6,1,Bulgaria, ,ESP,BUL
+1998,6/24/1998,Group D,Nigeria,1,3,Paraguay, ,NGA,PAR
+1998,6/25/1998,Group E,Belgium,1,1,Korea Republic, ,BEL,KOR
+1998,6/25/1998,Group E,Netherlands,2,2,Mexico, ,NED,MEX
+1998,6/25/1998,Group F,Germany,2,0,Iran, ,GER,IRN
+1998,6/25/1998,Group F,USA,0,1,Yugoslavia, ,USA,YUG
+1998,6/26/1998,Group H,Japan,1,2,Jamaica, ,JPN,JAM
+1998,6/26/1998,Group H,Argentina,1,0,Croatia, ,ARG,CRO
+1998,6/26/1998,Group G,Romania,1,1,Tunisia, ,ROU,TUN
+1998,6/26/1998,Group G,Colombia,0,2,England, ,COL,ENG
+1998,6/27/1998,Round of 16,Italy,1,0,Norway, ,ITA,NOR
+1998,6/27/1998,Round of 16,Brazil,4,1,Chile, ,BRA,CHI
+1998,6/28/1998,Round of 16,France,1,0,Paraguay,France win after extra time ,FRA,PAR
+1998,6/28/1998,Round of 16,Nigeria,1,4,Denmark, ,NGA,DEN
+1998,6/29/1998,Round of 16,Germany,2,1,Mexico, ,GER,MEX
+1998,6/29/1998,Round of 16,Netherlands,2,1,Yugoslavia, ,NED,YUG
+1998,6/30/1998,Round of 16,Romania,0,1,Croatia, ,ROU,CRO
+1998,6/30/1998,Round of 16,Argentina,2,2,England,Argentina win on penalties (4 - 3) ,ARG,ENG
+1998,7/3/1998,Quarter-finals,Italy,0,0,France,France win on penalties (3 - 4) ,ITA,FRA
+1998,7/3/1998,Quarter-finals,Brazil,3,2,Denmark, ,BRA,DEN
+1998,7/4/1998,Quarter-finals,Netherlands,2,1,Argentina, ,NED,ARG
+1998,7/4/1998,Quarter-finals,Germany,0,3,Croatia, ,GER,CRO
+1998,7/7/1998,Semi-finals,Brazil,1,1,Netherlands,Brazil win on penalties (4 - 2) ,BRA,NED
+1998,7/8/1998,Semi-finals,France,2,1,Croatia, ,FRA,CRO
+1998,7/11/1998,Third place,Netherlands,1,2,Croatia, ,NED,CRO
+1998,7/12/1998,Final,Brazil,0,3,France, ,BRA,FRA
+2002,5/31/2002,Group A,France,0,1,Senegal, ,FRA,SEN
+2002,6/1/2002,Group A,Uruguay,1,2,Denmark, ,URU,DEN
+2002,6/1/2002,Group E,Republic of Ireland,1,1,Cameroon, ,IRL,CMR
+2002,6/1/2002,Group E,Germany,8,0,Saudi Arabia, ,GER,KSA
+2002,6/2/2002,Group F,Argentina,1,0,Nigeria, ,ARG,NGA
+2002,6/2/2002,Group B,Paraguay,2,2,South Africa, ,PAR,RSA
+2002,6/2/2002,Group F,England,1,1,Sweden, ,ENG,SWE
+2002,6/2/2002,Group B,Spain,3,1,Slovenia, ,ESP,SVN
+2002,6/3/2002,Group C,Brazil,2,1,Turkey, ,BRA,TUR
+2002,6/3/2002,Group G,Italy,2,0,Ecuador, ,ITA,ECU
+2002,6/3/2002,Group G,Croatia,0,1,Mexico, ,CRO,MEX
+2002,6/4/2002,Group C,China PR,0,2,Costa Rica, ,CHN,CRC
+2002,6/4/2002,Group H,Japan,2,2,Belgium, ,JPN,BEL
+2002,6/4/2002,Group D,Korea Republic,2,0,Poland, ,KOR,POL
+2002,6/5/2002,Group H,Russia,2,0,Tunisia, ,RUS,TUN
+2002,6/5/2002,Group D,USA,3,2,Portugal, ,USA,POR
+2002,6/5/2002,Group E,Germany,1,1,Republic of Ireland, ,GER,IRL
+2002,6/6/2002,Group A,Denmark,1,1,Senegal, ,DEN,SEN
+2002,6/6/2002,Group E,Cameroon,1,0,Saudi Arabia, ,CMR,KSA
+2002,6/6/2002,Group A,France,0,0,Uruguay, ,FRA,URU
+2002,6/7/2002,Group F,Sweden,2,1,Nigeria, ,SWE,NGA
+2002,6/7/2002,Group F,Argentina,0,1,England, ,ARG,ENG
+2002,6/7/2002,Group B,Spain,3,1,Paraguay, ,ESP,PAR
+2002,6/8/2002,Group B,South Africa,1,0,Slovenia, ,RSA,SVN
+2002,6/8/2002,Group C,Brazil,4,0,China PR, ,BRA,CHN
+2002,6/8/2002,Group G,Italy,1,2,Croatia, ,ITA,CRO
+2002,6/9/2002,Group C,Costa Rica,1,1,Turkey, ,CRC,TUR
+2002,6/9/2002,Group H,Japan,1,0,Russia, ,JPN,RUS
+2002,6/9/2002,Group G,Mexico,2,1,Ecuador, ,MEX,ECU
+2002,6/10/2002,Group D,Korea Republic,1,1,USA, ,KOR,USA
+2002,6/10/2002,Group D,Portugal,4,0,Poland, ,POR,POL
+2002,6/10/2002,Group H,Tunisia,1,1,Belgium, ,TUN,BEL
+2002,6/11/2002,Group A,Denmark,2,0,France, ,DEN,FRA
+2002,6/11/2002,Group A,Senegal,3,3,Uruguay, ,SEN,URU
+2002,6/11/2002,Group E,Saudi Arabia,0,3,Republic of Ireland, ,KSA,IRL
+2002,6/11/2002,Group E,Cameroon,0,2,Germany, ,CMR,GER
+2002,6/12/2002,Group F,Sweden,1,1,Argentina, ,SWE,ARG
+2002,6/12/2002,Group F,Nigeria,0,0,England, ,NGA,ENG
+2002,6/12/2002,Group B,Slovenia,1,3,Paraguay, ,SVN,PAR
+2002,6/12/2002,Group B,South Africa,2,3,Spain, ,RSA,ESP
+2002,6/13/2002,Group C,Costa Rica,2,5,Brazil, ,CRC,BRA
+2002,6/13/2002,Group C,Turkey,3,0,China PR, ,TUR,CHN
+2002,6/13/2002,Group G,Ecuador,1,0,Croatia, ,ECU,CRO
+2002,6/13/2002,Group G,Mexico,1,1,Italy, ,MEX,ITA
+2002,6/14/2002,Group H,Tunisia,0,2,Japan, ,TUN,JPN
+2002,6/14/2002,Group D,Portugal,0,1,Korea Republic, ,POR,KOR
+2002,6/14/2002,Group D,Poland,3,1,USA, ,POL,USA
+2002,6/14/2002,Group H,Belgium,3,2,Russia, ,BEL,RUS
+2002,6/15/2002,Round of 16,Denmark,0,3,England, ,DEN,ENG
+2002,6/15/2002,Round of 16,Germany,1,0,Paraguay, ,GER,PAR
+2002,6/16/2002,Round of 16,Spain,1,1,Republic of Ireland,Spain win on penalties (3 - 2) ,ESP,IRL
+2002,6/16/2002,Round of 16,Sweden,1,2,Senegal,Win on Golden Goal ,SWE,SEN
+2002,6/17/2002,Round of 16,Brazil,2,0,Belgium, ,BRA,BEL
+2002,6/17/2002,Round of 16,Mexico,0,2,USA, ,MEX,USA
+2002,6/18/2002,Round of 16,Japan,0,1,Turkey, ,JPN,TUR
+2002,6/18/2002,Round of 16,Korea Republic,2,1,Italy,Win on Golden Goal ,KOR,ITA
+2002,6/21/2002,Quarter-finals,England,1,2,Brazil, ,ENG,BRA
+2002,6/21/2002,Quarter-finals,Germany,1,0,USA, ,GER,USA
+2002,6/22/2002,Quarter-finals,Senegal,0,1,Turkey,Win on Golden Goal ,SEN,TUR
+2002,6/22/2002,Quarter-finals,Spain,0,0,Korea Republic,Korea Republic win on penalties (3 - 5) ,ESP,KOR
+2002,6/25/2002,Semi-finals,Germany,1,0,Korea Republic, ,GER,KOR
+2002,6/26/2002,Semi-finals,Brazil,1,0,Turkey, ,BRA,TUR
+2002,6/29/2002,Third place,Korea Republic,2,3,Turkey, ,KOR,TUR
+2002,6/30/2002,Final,Germany,0,2,Brazil, ,GER,BRA
+2006,6/9/2006,Group A,Germany,4,2,Costa Rica, ,GER,CRC
+2006,6/9/2006,Group A,Poland,0,2,Ecuador, ,POL,ECU
+2006,6/10/2006,Group B,England,1,0,Paraguay, ,ENG,PAR
+2006,6/10/2006,Group B,Trinidad and Tobago,0,0,Sweden, ,TRI,SWE
+2006,6/10/2006,Group C,Argentina,2,1,C�te d'Ivoire, ,ARG,CIV
+2006,6/11/2006,Group C,Serbia and Montenegro,0,1,Netherlands, ,SCG,NED
+2006,6/11/2006,Group D,Mexico,3,1,Iran, ,MEX,IRN
+2006,6/11/2006,Group D,Angola,0,1,Portugal, ,ANG,POR
+2006,6/12/2006,Group F,Australia,3,1,Japan, ,AUS,JPN
+2006,6/12/2006,Group E,USA,0,3,Czech Republic, ,USA,CZE
+2006,6/12/2006,Group E,Italy,2,0,Ghana, ,ITA,GHA
+2006,6/13/2006,Group G,Korea Republic,2,1,Togo, ,KOR,TOG
+2006,6/13/2006,Group G,France,0,0,Switzerland, ,FRA,SUI
+2006,6/13/2006,Group F,Brazil,1,0,Croatia, ,BRA,CRO
+2006,6/14/2006,Group H,Spain,4,0,Ukraine, ,ESP,UKR
+2006,6/14/2006,Group H,Tunisia,2,2,Saudi Arabia, ,TUN,KSA
+2006,6/14/2006,Group A,Germany,1,0,Poland, ,GER,POL
+2006,6/15/2006,Group A,Ecuador,3,0,Costa Rica, ,ECU,CRC
+2006,6/15/2006,Group B,England,2,0,Trinidad and Tobago, ,ENG,TRI
+2006,6/15/2006,Group B,Sweden,1,0,Paraguay, ,SWE,PAR
+2006,6/16/2006,Group C,Argentina,6,0,Serbia and Montenegro, ,ARG,SCG
+2006,6/16/2006,Group C,Netherlands,2,1,C�te d'Ivoire, ,NED,CIV
+2006,6/16/2006,Group D,Mexico,0,0,Angola, ,MEX,ANG
+2006,6/17/2006,Group D,Portugal,2,0,IR Iran, ,POR,IRN
+2006,6/17/2006,Group E,Czech Republic,0,2,Ghana, ,CZE,GHA
+2006,6/17/2006,Group E,Italy,1,1,USA, ,ITA,USA
+2006,6/18/2006,Group F,Japan,0,0,Croatia, ,JPN,CRO
+2006,6/18/2006,Group F,Brazil,2,0,Australia, ,BRA,AUS
+2006,6/18/2006,Group G,France,1,1,Korea Republic, ,FRA,KOR
+2006,6/19/2006,Group G,Togo,0,2,Switzerland, ,TOG,SUI
+2006,6/19/2006,Group H,Saudi Arabia,0,4,Ukraine, ,KSA,UKR
+2006,6/19/2006,Group H,Spain,3,1,Tunisia, ,ESP,TUN
+2006,6/20/2006,Group A,Ecuador,0,3,Germany, ,ECU,GER
+2006,6/20/2006,Group A,Costa Rica,1,2,Poland, ,CRC,POL
+2006,6/20/2006,Group B,Sweden,2,2,England, ,SWE,ENG
+2006,6/20/2006,Group B,Paraguay,2,0,Trinidad and Tobago, ,PAR,TRI
+2006,6/21/2006,Group D,Iran,1,1,Angola, ,IRN,ANG
+2006,6/21/2006,Group D,Portugal,2,1,Mexico, ,POR,MEX
+2006,6/21/2006,Group C,Netherlands,0,0,Argentina, ,NED,ARG
+2006,6/21/2006,Group C,C�te d'Ivoire,3,2,Serbia and Montenegro, ,CIV,SCG
+2006,6/22/2006,Group E,Czech Republic,0,2,Italy, ,CZE,ITA
+2006,6/22/2006,Group E,Ghana,2,1,USA, ,GHA,USA
+2006,6/22/2006,Group F,Japan,1,4,Brazil, ,JPN,BRA
+2006,6/22/2006,Group F,Croatia,2,2,Australia, ,CRO,AUS
+2006,6/23/2006,Group H,Ukraine,1,0,Tunisia, ,UKR,TUN
+2006,6/23/2006,Group H,Saudi Arabia,0,1,Spain, ,KSA,ESP
+2006,6/23/2006,Group G,Togo,0,2,France, ,TOG,FRA
+2006,6/23/2006,Group G,Switzerland,2,0,Korea Republic, ,SUI,KOR
+2006,6/24/2006,Round of 16,Germany,2,0,Sweden, ,GER,SWE
+2006,6/24/2006,Round of 16,Argentina,2,1,Mexico,Argentina win after extra time ,ARG,MEX
+2006,6/25/2006,Round of 16,England,1,0,Ecuador, ,ENG,ECU
+2006,6/25/2006,Round of 16,Portugal,1,0,Netherlands, ,POR,NED
+2006,6/26/2006,Round of 16,Italy,1,0,Australia, ,ITA,AUS
+2006,6/26/2006,Round of 16,Switzerland,0,0,Ukraine,Ukraine win on penalties (0 - 3) ,SUI,UKR
+2006,6/27/2006,Round of 16,Brazil,3,0,Ghana, ,BRA,GHA
+2006,6/27/2006,Round of 16,Spain,1,3,France, ,ESP,FRA
+2006,6/30/2006,Quarter-finals,Germany,1,1,Argentina,Germany win on penalties (4 - 2) ,GER,ARG
+2006,6/30/2006,Quarter-finals,Italy,3,0,Ukraine, ,ITA,UKR
+2006,7/1/2006,Quarter-finals,England,0,0,Portugal,Portugal win on penalties (1 - 3) ,ENG,POR
+2006,7/1/2006,Quarter-finals,Brazil,0,1,France, ,BRA,FRA
+2006,7/4/2006,Semi-finals,Germany,0,2,Italy,Italy win after extra time ,GER,ITA
+2006,7/5/2006,Semi-finals,Portugal,0,1,France, ,POR,FRA
+2006,7/8/2006,Third place,Germany,3,1,Portugal, ,GER,POR
+2006,7/9/2006,Final,Italy,1,1,France,Italy win on penalties (5 - 3) ,ITA,FRA
+2010,6/11/2010,Group A,South Africa,1,1,Mexico, ,RSA,MEX
+2010,6/11/2010,Group A,Uruguay,0,0,France, ,URU,FRA
+2010,6/12/2010,Group B,Korea Republic,2,0,Greece, ,KOR,GRE
+2010,6/12/2010,Group B,Argentina,1,0,Nigeria, ,ARG,NGA
+2010,6/12/2010,Group C,England,1,1,USA, ,ENG,USA
+2010,6/13/2010,Group C,Algeria,0,1,Slovenia, ,ALG,SVN
+2010,6/13/2010,Group D,Serbia,0,1,Ghana, ,SRB,GHA
+2010,6/13/2010,Group D,Germany,4,0,Australia, ,GER,AUS
+2010,6/14/2010,Group E,Netherlands,2,0,Denmark, ,NED,DEN
+2010,6/14/2010,Group E,Japan,1,0,Cameroon, ,JPN,CMR
+2010,6/14/2010,Group F,Italy,1,1,Paraguay, ,ITA,PAR
+2010,6/15/2010,Group F,New Zealand,1,1,Slovakia, ,NZL,SVK
+2010,6/15/2010,Group G,C�te d'Ivoire,0,0,Portugal, ,CIV,POR
+2010,6/15/2010,Group G,Brazil,2,1,Korea DPR, ,BRA,PRK
+2010,6/16/2010,Group H,Honduras,0,1,Chile, ,HON,CHI
+2010,6/16/2010,Group H,Spain,0,1,Switzerland, ,ESP,SUI
+2010,6/16/2010,Group A,South Africa,0,3,Uruguay, ,RSA,URU
+2010,6/17/2010,Group B,Argentina,4,1,Korea Republic, ,ARG,KOR
+2010,6/17/2010,Group B,Greece,2,1,Nigeria, ,GRE,NGA
+2010,6/17/2010,Group A,France,0,2,Mexico, ,FRA,MEX
+2010,6/18/2010,Group D,Germany,0,1,Serbia, ,GER,SRB
+2010,6/18/2010,Group C,Slovenia,2,2,USA, ,SVN,USA
+2010,6/18/2010,Group C,England,0,0,Algeria, ,ENG,ALG
+2010,6/19/2010,Group E,Netherlands,1,0,Japan, ,NED,JPN
+2010,6/19/2010,Group D,Ghana,1,1,Australia, ,GHA,AUS
+2010,6/19/2010,Group E,Cameroon,1,2,Denmark, ,CMR,DEN
+2010,6/20/2010,Group F,Slovakia,0,2,Paraguay, ,SVK,PAR
+2010,6/20/2010,Group F,Italy,1,1,New Zealand, ,ITA,NZL
+2010,6/20/2010,Group G,Brazil,3,1,C�te d'Ivoire, ,BRA,CIV
+2010,6/21/2010,Group G,Portugal,7,0,Korea DPR, ,POR,PRK
+2010,6/21/2010,Group H,Chile,1,0,Switzerland, ,CHI,SUI
+2010,6/21/2010,Group H,Spain,2,0,Honduras, ,ESP,HON
+2010,6/22/2010,Group A,Mexico,0,1,Uruguay, ,MEX,URU
+2010,6/22/2010,Group A,France,1,2,South Africa, ,FRA,RSA
+2010,6/22/2010,Group B,Nigeria,2,2,Korea Republic, ,NGA,KOR
+2010,6/22/2010,Group B,Greece,0,2,Argentina, ,GRE,ARG
+2010,6/23/2010,Group C,Slovenia,0,1,England, ,SVN,ENG
+2010,6/23/2010,Group C,USA,1,0,Algeria, ,USA,ALG
+2010,6/23/2010,Group D,Ghana,0,1,Germany, ,GHA,GER
+2010,6/23/2010,Group D,Australia,2,1,Serbia, ,AUS,SRB
+2010,6/24/2010,Group F,Slovakia,3,2,Italy, ,SVK,ITA
+2010,6/24/2010,Group F,Paraguay,0,0,New Zealand, ,PAR,NZL
+2010,6/24/2010,Group E,Denmark,1,3,Japan, ,DEN,JPN
+2010,6/24/2010,Group E,Cameroon,1,2,Netherlands, ,CMR,NED
+2010,6/25/2010,Group G,Portugal,0,0,Brazil, ,POR,BRA
+2010,6/25/2010,Group G,Korea DPR,0,3,C�te d'Ivoire, ,PRK,CIV
+2010,6/25/2010,Group H,Chile,1,2,Spain, ,CHI,ESP
+2010,6/25/2010,Group H,Switzerland,0,0,Honduras, ,SUI,HON
+2010,6/26/2010,Round of 16,Uruguay,2,1,Korea Republic, ,URU,KOR
+2010,6/26/2010,Round of 16,USA,1,2,Ghana,Ghana win after extra time ,USA,GHA
+2010,6/27/2010,Round of 16,Germany,4,1,England, ,GER,ENG
+2010,6/27/2010,Round of 16,Argentina,3,1,Mexico, ,ARG,MEX
+2010,6/28/2010,Round of 16,Netherlands,2,1,Slovakia, ,NED,SVK
+2010,6/28/2010,Round of 16,Brazil,3,0,Chile, ,BRA,CHI
+2010,6/29/2010,Round of 16,Paraguay,0,0,Japan,Paraguay win on penalties (5 - 3) ,PAR,JPN
+2010,6/29/2010,Round of 16,Spain,1,0,Portugal, ,ESP,POR
+2010,7/2/2010,Quarter-finals,Netherlands,2,1,Brazil, ,NED,BRA
+2010,7/2/2010,Quarter-finals,Uruguay,1,1,Ghana,Uruguay win on penalties (4 - 2) ,URU,GHA
+2010,7/3/2010,Quarter-finals,Argentina,0,4,Germany, ,ARG,GER
+2010,7/3/2010,Quarter-finals,Paraguay,0,1,Spain, ,PAR,ESP
+2010,7/6/2010,Semi-finals,Uruguay,2,3,Netherlands, ,URU,NED
+2010,7/7/2010,Semi-finals,Germany,0,1,Spain, ,GER,ESP
+2010,7/10/2010,Third place,Uruguay,2,3,Germany, ,URU,GER
+2010,7/11/2010,Final,Netherlands,0,1,Spain,Spain win after extra time ,NED,ESP
+2014,6/12/2014,Group A,Brazil,3,1,Croatia, ,BRA,CRO
+2014,6/13/2014,Group A,Mexico,1,0,Cameroon, ,MEX,CMR
+2014,6/13/2014,Group B,Spain,1,5,Netherlands, ,ESP,NED
+2014,6/13/2014,Group B,Chile,3,1,Australia, ,CHI,AUS
+2014,6/14/2014,Group C,Colombia,3,0,Greece, ,COL,GRE
+2014,6/14/2014,Group D,Uruguay,1,3,Costa Rica, ,URU,CRC
+2014,6/14/2014,Group D,England,1,2,Italy, ,ENG,ITA
+2014,6/14/2014,Group C,C�te d'Ivoire,2,1,Japan, ,CIV,JPN
+2014,6/15/2014,Group E,Switzerland,2,1,Ecuador, ,SUI,ECU
+2014,6/15/2014,Group E,France,3,0,Honduras, ,FRA,HON
+2014,6/15/2014,Group F,Argentina,2,1,Bosnia and Herzegovina, ,ARG,BIH
+2014,6/16/2014,Group G,Germany,4,0,Portugal, ,GER,POR
+2014,6/16/2014,Group F,IR Iran,0,0,Nigeria, ,IRN,NGA
+2014,6/16/2014,Group G,Ghana,1,2,USA, ,GHA,USA
+2014,6/17/2014,Group H,Belgium,2,1,Algeria, ,BEL,ALG
+2014,6/17/2014,Group A,Brazil,0,0,Mexico, ,BRA,MEX
+2014,6/17/2014,Group H,Russia,1,1,Korea Republic, ,RUS,KOR
+2014,6/18/2014,Group B,Australia,2,3,Netherlands, ,AUS,NED
+2014,6/18/2014,Group B,Spain,0,2,Chile, ,ESP,CHI
+2014,6/18/2014,Group A,Cameroon,0,4,Croatia, ,CMR,CRO
+2014,6/19/2014,Group C,Colombia,2,1,C�te d'Ivoire, ,COL,CIV
+2014,6/19/2014,Group D,Uruguay,2,1,England, ,URU,ENG
+2014,6/19/2014,Group C,Japan,0,0,Greece, ,JPN,GRE
+2014,6/20/2014,Group D,Italy,0,1,Costa Rica, ,ITA,CRC
+2014,6/20/2014,Group E,Switzerland,2,5,France, ,SUI,FRA
+2014,6/20/2014,Group E,Honduras,1,2,Ecuador, ,HON,ECU
+2014,6/21/2014,Group F,Argentina,1,0,IR Iran, ,ARG,IRN
+2014,6/21/2014,Group G,Germany,2,2,Ghana, ,GER,GHA
+2014,6/21/2014,Group F,Nigeria,1,0,Bosnia and Herzegovina, ,NGA,BIH
+2014,6/22/2014,Group H,Belgium,1,0,Russia, ,BEL,RUS
+2014,6/22/2014,Group H,Korea Republic,2,4,Algeria, ,KOR,ALG
+2014,6/22/2014,Group G,USA,2,2,Portugal, ,USA,POR
+2014,6/23/2014,Group B,Australia,0,3,Spain, ,AUS,ESP
+2014,6/23/2014,Group B,Netherlands,2,0,Chile, ,NED,CHI
+2014,6/23/2014,Group A,Cameroon,1,4,Brazil, ,CMR,BRA
+2014,6/23/2014,Group A,Croatia,1,3,Mexico, ,CRO,MEX
+2014,6/24/2014,Group D,Italy,0,1,Uruguay, ,ITA,URU
+2014,6/24/2014,Group D,Costa Rica,0,0,England, ,CRC,ENG
+2014,6/24/2014,Group C,Japan,1,4,Colombia, ,JPN,COL
+2014,6/24/2014,Group C,Greece,2,1,C�te d'Ivoire, ,GRE,CIV
+2014,6/25/2014,Group F,Nigeria,2,3,Argentina, ,NGA,ARG
+2014,6/25/2014,Group F,Bosnia and Herzegovina,3,1,IR Iran, ,BIH,IRN
+2014,6/25/2014,Group E,Honduras,0,3,Switzerland, ,HON,SUI
+2014,6/25/2014,Group E,Ecuador,0,0,France, ,ECU,FRA
+2014,6/26/2014,Group G,USA,0,1,Germany, ,USA,GER
+2014,6/26/2014,Group G,Portugal,2,1,Ghana, ,POR,GHA
+2014,6/26/2014,Group H,Korea Republic,0,1,Belgium, ,KOR,BEL
+2014,6/26/2014,Group H,Algeria,1,1,Russia, ,ALG,RUS
+2014,6/28/2014,Round of 16,Brazil,1,1,Chile,Brazil win on penalties (3 - 2) ,BRA,CHI
+2014,6/28/2014,Round of 16,Colombia,2,0,Uruguay, ,COL,URU
+2014,6/30/2014,Round of 16,France,2,0,Nigeria, ,FRA,NGA
+2014,6/30/2014,Round of 16,Germany,2,1,Algeria,Germany win after extra time ,GER,ALG
+2014,7/4/2014,Quarter-finals,Brazil,2,1,Colombia, ,BRA,COL
+2014,7/4/2014,Quarter-finals,France,0,1,Germany, ,FRA,GER
+2014,7/8/2014,Semi-finals,Brazil,1,7,Germany, ,BRA,GER
+2014,7/12/2014,Third place,Brazil,0,3,Netherlands, ,BRA,NED
+2014,7/13/2014,Final,Germany,1,0,Argentina,Germany win after extra time ,GER,ARG
+2014,7/9/2014,Semi-finals,Netherlands,0,0,Argentina,Argentina win on penalties (2 - 4) ,NED,ARG
+2014,7/5/2014,Quarter-finals,Netherlands,0,0,Costa Rica,Netherlands win on penalties (4 - 3) ,NED,CRC
+2014,7/5/2014,Quarter-finals,Argentina,1,0,Belgium, ,ARG,BEL
+2014,6/29/2014,Round of 16,Netherlands,2,1,Mexico, ,NED,MEX
+2014,6/29/2014,Round of 16,Costa Rica,1,1,Greece,Costa Rica win on penalties (5 - 3) ,CRC,GRE
+2014,7/1/2014,Round of 16,Argentina,1,0,Switzerland,Argentina win after extra time ,ARG,SUI
+2014,7/1/2014,Round of 16,Belgium,2,1,USA,Belgium win after extra time ,BEL,USA
+2014,6/28/2014,Round of 16,Brazil,1,1,Chile,Brazil win on penalties (3 - 2) ,BRA,CHI
+2014,6/28/2014,Round of 16,Colombia,2,0,Uruguay, ,COL,URU
+2014,6/29/2014,Round of 16,Netherlands,2,1,Mexico, ,NED,MEX
+2014,6/29/2014,Round of 16,Costa Rica,1,1,Greece,Costa Rica win on penalties (5 - 3) ,CRC,GRE
+2014,6/30/2014,Round of 16,France,2,0,Nigeria, ,FRA,NGA
+2014,6/30/2014,Round of 16,Germany,2,1,Algeria,Germany win after extra time ,GER,ALG
+2014,7/1/2014,Round of 16,Argentina,1,0,Switzerland,Argentina win after extra time ,ARG,SUI
+2014,7/1/2014,Round of 16,Belgium,2,1,USA,Belgium win after extra time ,BEL,USA
+2014,7/4/2014,Quarter-finals,France,0,1,Germany, ,FRA,GER
+2014,7/4/2014,Quarter-finals,Brazil,2,1,Colombia, ,BRA,COL
+2014,7/5/2014,Quarter-finals,Argentina,1,0,Belgium, ,ARG,BEL
+2014,7/5/2014,Quarter-finals,Netherlands,0,0,Costa Rica,Netherlands win on penalties (4 - 3) ,NED,CRC
+2014,7/8/2014,Semi-finals,Brazil,1,7,Germany, ,BRA,GER
+2014,7/9/2014,Semi-finals,Netherlands,0,0,Argentina,Argentina win on penalties (2 - 4) ,NED,ARG
+2014,7/12/2014,Third place,Brazil,0,3,Netherlands, ,BRA,NED
+2014,7/13/2014,Final,Germany,1,0,Argentina,Germany win after extra time ,GER,ARG
+2018,6/14/2018,Group A,Russia,5,0,Saudi Arabia,,RUS,KSA
+2018,6/15/2018,Group A,Egypt,0,1,Uruguay,,EGY,URU
+2018,6/19/2018,Group A,Russia,3,1,Egypt,,RUS,EGY
+2018,6/20/2018,Group A,Uruguay,1,0,Saudi Arabia,,URU,KSA
+2018,6/25/2018,Group A,Uruguay,3,0,Russia,,URU,RUS
+2018,6/25/2018,Group A,Saudi Arabia,2,1,Egypt,,KSA,EGY
+2018,6/15/2018,Group B,Morocco,0,1,Iran,,MAR,IRN
+2018,6/15/2018,Group B,Portugal,3,3,Spain,,POR,ESP
+2018,6/20/2018,Group B,Portugal,1,0,Morocco,,POR,MAR
+2018,6/20/2018,Group B,Iran,0,1,Spain,,IRN,ESP
+2018,6/25/2018,Group B,Iran,1,1,Portugal,,IRN,POR
+2018,6/25/2018,Group B,Spain,2,2,Morocco,,ESP,MAR
+2018,6/16/2018,Group C,France,2,1,Australia,,FRA,AUS
+2018,6/16/2018,Group C,Peru,0,1,Denmark,,PER,DEN
+2018,6/21/2018,Group C,Denmark,1,1,Australia,,DEN,AUS
+2018,6/21/2018,Group C,France,1,0,Peru,,FRA,PER
+2018,6/26/2018,Group C,Denmark,0,0,France,,DEN,FRA
+2018,6/26/2018,Group C,Australia,0,2,Peru,,AUS,PER
+2018,6/16/2018,Group D,Argentina,1,1,Iceland,,ARG,ICE
+2018,6/16/2018,Group D,Croatia,2,0,Nigeria,,CRO,NGA
+2018,6/21/2018,Group D,Argentina,0,3,Croatia,,ARG,CRO
+2018,6/22/2018,Group D,Nigeria,2,0,Iceland,,NGA,ICE
+2018,6/26/2018,Group D,Nigeria,1,2,Argentina,,NGA,ARG
+2018,6/26/2018,Group D,Iceland,1,2,Croatia,,ICE,CRO
+2018,6/17/2018,Group E,Costa Rica,0,1,Serbia,,CRC,SRB
+2018,6/17/2018,Group E,Brazil,1,1,Switzerland,,BRA,SUI
+2018,6/22/2018,Group E,Brazil,2,0,Costa Rica,,BRA,CRC
+2018,6/22/2018,Group E,Serbia,1,2,Switzerland,,SRB,SUI
+2018,6/27/2018,Group E,Serbia,0,2,Brazil,,SRB,BRA
+2018,6/27/2018,Group E,Switzerland,2,2,Costa Rica,,SUI,CRC
+2018,6/17/2018,Group F,Germany,0,1,Mexico,,GER,MEX
+2018,6/18/2018,Group F,Sweden,1,0,South Korea,,SWE,KOR
+2018,6/23/2018,Group F,South Korea,1,2,Mexico,,KOR,MEX
+2018,6/23/2018,Group F,Germany,2,1,Sweden,,GER,SWE
+2018,6/27/2018,Group F,South Korea,2,0,Germany,,KOR,GER
+2018,6/27/2018,Group F,Mexico,0,3,Sweden,,MEX,SWE
+2018,6/18/2018,Group G,Belgium,3,0,Panama,,BEL,PAN
+2018,6/18/2018,Group G,Tunisia,1,2,England,,TUN,ENG
+2018,6/23/2018,Group G,Belgium,5,2,Tunisia,,BEL,TUN
+2018,6/24/2018,Group G,England,6,1,Panama,,ENG,PAN
+2018,6/28/2018,Group G,England,0,1,Belgium,,ENG,BEL
+2018,6/28/2018,Group G,Panama,1,2,Tunisia,,PAN,TUN
+2018,6/19/2018,Group H,Colombia,1,2,Japan,,COL,JPN
+2018,6/19/2018,Group H,Poland,1,2,Senegal,,POL,SEN
+2018,6/24/2018,Group H,Japan,2,2,Senegal,,JPN,SEN
+2018,6/24/2018,Group H,Poland,0,3,Colombia,,POL,COL
+2018,6/28/2018,Group H,Japan,0,1,Poland,,JPN,POL
+2018,6/28/2018,Group H,Senegal,0,1,Colombia,,SEN,COL
+2018,6/30/2018,Round of 16,Uruguay,2,1,Portugal,,URU,POR
+2018,6/30/2018,Round of 16,France,4,3,Argentina,,FRA,ARG
+2018,7/2/2018,Round of 16,Brazil,2,0,Mexico,,BRA,MEX
+2018,7/2/2018,Round of 16,Belgium,3,2,Japan,,BEL,JPN
+2018,7/1/2018,Round of 16,Spain,1,1,Russia,Win on Penalties,ESP,RUS
+2018,7/1/2018,Round of 16,Croatia,1,1,Denmark,Win on Penalties,CRO,DEN
+2018,7/3/2018,Round of 16,Sweden,1,0,Switzerland,,SWE,SUI
+2018,7/3/2018,Round of 16,Colombia,1,1,England,Win on Penalties,COL,ENG
+2018,7/6/2018,Quarter-finals,Uruguay,0,2,France,,URU,FRA
+2018,7/6/2018,Quarter-finals,Brazil,1,2,Belgium,,BRA,BEL
+2018,7/7/2018,Quarter-finals,Russia,2,2,Croatia,Win on Extra-Time,RUS,CRO
+2018,7/7/2018,Quarter-finals,Sweden,0,2,England,,SWE,ENG
+2018,7/10/2018,Semi-finals,France,1,0,Belgium,,FRA,BEL
+2018,7/11/2018,Semi-finals,Croatia,2,1,England,,CRO,ENG
+2018,7/15/2018,Final,France,4,2,Croatia,,FRA,CRO
+2018,7/14/2018,Third place,Belgium,2,0,England,,BEL,ENG
